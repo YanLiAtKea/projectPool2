@@ -16,7 +16,7 @@
     left: 0;
 }
 .img.fadeOut {
-    animation: fadeOut 0.5s forwards ease;
+    animation: fadeOut 3s forwards ease;
 }
 @keyframes fadeOut {
     to {
