@@ -23,3 +23,14 @@
         opacity: 0;
     }
 }
+button {
+    border: none;
+    background-color: transparent;
+    font-size: 2em;
+    font-family: monospace;
+    margin: .5em;
+    cursor: crosshair;
+}
+.start {
+    display: none;
+}
